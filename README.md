@@ -1,7 +1,7 @@
 # 🧱 Dev Stack Builder
 
-🔗 **Live Site:** [Visit Live Site](YOUR_LIVE_DEPLOYMENT_LINK_HERE)  
-📁 **Repository:** [GitHub Repo](https://github.com/faisal-shohag/B14-A05-DevStack)
+🔗 **Live Site:** [Visit Live Site](https://github.com/arafat-hossain12/B14-A05-DevStack.git)  
+📁 **Repository:** [GitHub Repo](https://github.com/arafat-hossain12/B14-A05-DevStack)
 
 ---
 
