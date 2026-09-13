@@ -1,7 +1,6 @@
-# 🧱 Dev Stack Builder
-
-🔗 Live Site: [Visit Live Site](https://github.com/arafat-hossain12/B14-A05-DevStack.git)  
-📁 Repository:[GitHub Repository](https://github.com/arafat-hossain12/B14-A05-DevStack)
+## 🧱 Dev Stack Builder
+ - **Live URL:** [https://stellar-marshmallow-93c83d.netlify.app](https://stellar-marshmallow-93c83d.netlify.app)
+- **GitHub Repository:** [https://github.com/arafat-hossain12/B14-A05-DevStack](https://github.com/arafat-hossain12/B14-A05-DevStack)
 
 ---
 
@@ -9,15 +8,15 @@
 Dev Stack Builder is an interactive web application that allows developers to explore various software development technologies, compare their features, and assemble their ideal technology stack side-by-side.
 
 ## 🚀 Key Features
-- **Interactive Tech Selector:** Browse 12+ technologies with ratings, difficulty levels, and badges, and add them to your personalized stack.
-- **Real-time Stack Sidebar:** Manage selected tools seamlessly with single-click additions, individual removals, and a clear-all functionality.
-- **Toast Notifications & Loading State:** Enhanced user experience featuring Toastify alerts for actions and a visual loading spinner during data fetching.
+- Interactive Tech Selector: Browse 12+ technologies with ratings, difficulty levels, and badges, and add them to your personalized stack.
+- Real-time Stack Sidebar: Manage selected tools seamlessly with single-click additions, individual removals, and a clear-all functionality.
+- Toast Notifications & Loading State: Enhanced user experience featuring Toastify alerts for actions and a visual loading spinner during data fetching.
 
 ## ⚙️ Technologies Used
-- **Frontend Framework:** React.js (Vite)
-- **Styling:** Tailwind CSS, DaisyUI
-- **Notifications:** React-Toastify
-- **Icons & Assets:** SVG Icons & Local JSON Data
+- Frontend Framework: React.js (Vite)
+- Styling: Tailwind CSS, DaisyUI
+- Notifications: React-Toastify
+- Icons & Assets: SVG Icons & Local JSON Data
 
 ---
 
