@@ -1,7 +1,6 @@
 ## 🧱 Dev Stack Builder
- - **Live URL:** [https://stellar-marshmallow-93c83d.netlify.app](https://stellar-marshmallow-93c83d.netlify.app)
-- **GitHub Repository:** [https://github.com/arafat-hossain12/B14-A05-DevStack](https://github.com/arafat-hossain12/B14-A05-DevStack)
-
+ - Live URL: https://stellar-marshmallow-93c83d.netlify.app
+- GitHub Repository: https://github.com/arafat-hossain12/B14-A05-DevStack
 ---
 
 ## 📝 Description
